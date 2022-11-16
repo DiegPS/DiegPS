@@ -1,7 +1,19 @@
 # Diego Pahua Silvan
-## Desarrollador Full Stack
+### Desarrollador Full Stack
+<a href="https://twitch.tv/d7egps" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="d7egps" height="28px" width="28px" />
+</a>
+<a href="https://youtube.com/d7egps" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="d7egps" height="28px" width="28px" />
+</a>
+<a href="https://instagram.com/d7egps" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d7egps" height="28px" width="28px" />
+</a>
+<a href="https://twitter.com/d7egps" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="d7egps" height="28px" width="28px" />
+</a>
 
-### Youtube
+## Ultimos videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite](https://ytcards.demolab.com/?id=Jlu6Sd65WyQ&title=Distro+de+Arch+Linux+con+Openbox+LIGERA+y+LIVIANA+Archcraft+Lite&lang=en&timestamp=1662418129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite")](https://www.youtube.com/watch?v=Jlu6Sd65WyQ)
 [![Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows](https://ytcards.demolab.com/?id=vfWT-4AvgQY&title=Instalar+y+configurar+Sublime+Text+4+y+Mejores+extensiones+en+linux+y+windows&lang=en&timestamp=1662418112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows")](https://www.youtube.com/watch?v=vfWT-4AvgQY)
