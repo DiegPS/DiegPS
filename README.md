@@ -1,4 +1,7 @@
 # Diego Pahua Silvan
+## Desarrollador Full Stack
+
+### Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite](https://ytcards.demolab.com/?id=Jlu6Sd65WyQ&title=Distro+de+Arch+Linux+con+Openbox+LIGERA+y+LIVIANA+Archcraft+Lite&lang=en&timestamp=1662418129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite")](https://www.youtube.com/watch?v=Jlu6Sd65WyQ)
 [![Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows](https://ytcards.demolab.com/?id=vfWT-4AvgQY&title=Instalar+y+configurar+Sublime+Text+4+y+Mejores+extensiones+en+linux+y+windows&lang=en&timestamp=1662418112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows")](https://www.youtube.com/watch?v=vfWT-4AvgQY)
