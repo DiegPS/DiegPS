@@ -1,15 +1,4 @@
 # Diego Pahua Silvan(D7EGPS)
-<h3 align="center">Desarrollador FullStack</h3>
-
-<p align="left"> <a href="https://twitter.com/d7egps" target="blank"><img src="https://img.shields.io/twitter/follow/d7egps?logo=twitter&style=for-the-badge" alt="d7egps" /></a> </p>
-
-<h3 align="left">Contactame</h3>
-<p align="left">
-<a href="https://twitter.com/d7egps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d7egps" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/d7egps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d7egps" height="30" width="40" /></a>
-<a href="https://fb.com/d7egps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d7egps" height="30" width="40" /></a>
-<a href="https://instagram.com/d7egps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d7egps" height="30" width="40" /></a>
-</p>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite](https://ytcards.demolab.com/?id=Jlu6Sd65WyQ&title=Distro+de+Arch+Linux+con+Openbox+LIGERA+y+LIVIANA+Archcraft+Lite&lang=en&timestamp=1662418129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Distro de Arch Linux con Openbox LIGERA y LIVIANA Archcraft Lite")](https://www.youtube.com/watch?v=Jlu6Sd65WyQ)
 [![Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows](https://ytcards.demolab.com/?id=vfWT-4AvgQY&title=Instalar+y+configurar+Sublime+Text+4+y+Mejores+extensiones+en+linux+y+windows&lang=en&timestamp=1662418112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Instalar y configurar Sublime Text 4 y Mejores extensiones en linux y windows")](https://www.youtube.com/watch?v=vfWT-4AvgQY)
