@@ -1,21 +1,7 @@
 # Diego Pahua Silvan
 ### Desarrollador Full Stack
-<a href="https://twitch.tv/d7egps" target="blank">
-    <img style='filter: invert(18%) sepia(98%) saturate(2657%) hue-rotate(289deg) brightness(121%) contrast(140%);'
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="d7egps" height="28px" width="28px" />
-</a>
-<a href="https://youtube.com/@d7egps" target="blank">
-    <img style='filter: invert(18%) sepia(98%) saturate(2657%) hue-rotate(289deg) brightness(121%) contrast(140%);'
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="d7egps" height="28px" width="28px" />
-</a>
-<a href="https://instagram.com/d7egps" target="blank">
-    <img style='filter: invert(18%) sepia(98%) saturate(2657%) hue-rotate(289deg) brightness(121%) contrast(140%);'
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d7egps" height="28px" width="28px" />
-</a>
-<a href="https://twitter.com/d7egps" target="blank">
-    <img style='filter: invert(18%) sepia(98%) saturate(2657%) hue-rotate(289deg) brightness(121%) contrast(140%);'
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="d7egps" height="28px" width="28px" />
-</a>
+
+Aprendiendo cosas nuevas cada dia.
 
 ## Ultimos videos
 <!-- BEGIN YOUTUBE-CARDS -->
