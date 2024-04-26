@@ -2,7 +2,7 @@
 ### Desarrollador Full Stack
 
 Aprendiendo cosas nuevas cada dia, Siempre con ganas de mejorar.
-![DiegPS Status](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact)
+![DiegPS Status](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
 
 
 ## Ultimos videos
