@@ -1,9 +1,8 @@
 # Diego Pahua Silvan
-### Desarrollador Full Stack
 
-Aprendiendo cosas nuevas cada dia, Siempre con ganas de mejorar.
+## Full Stack Developer
+
 ![DiegPS Status](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
-
 
 ## Ultimos videos
 <!-- BEGIN YOUTUBE-CARDS -->
