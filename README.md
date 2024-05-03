@@ -1,4 +1,6 @@
 # Diego Pahua Silvan
+### Full Stack Developer
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -14,8 +16,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="bunjs" src="https://img.shields.io/badge/-Bun-f46db3?style=flat-square&logo=bun&logoColor=white"/>
 </p>
-
-## Full Stack Developer
 
 ![DiegPS Status](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
 
