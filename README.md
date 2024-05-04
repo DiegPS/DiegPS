@@ -1,6 +1,8 @@
 # Diego Pahua Silvan
 ### Full Stack Developer
 
+Con ganas de mejorar siempre.
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
