@@ -1,7 +1,7 @@
 # Diego Pahua Silvan
 ### Full Stack Developer
 
-Con ganas de mejorar siempre.
+Siempre dispuesto a ayudar y si necesitas contactar conmigo por favor puedes usar linkedin y creeme ahi conversamos de lo que desees <3
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
