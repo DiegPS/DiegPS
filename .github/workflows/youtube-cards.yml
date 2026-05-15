@@ -8,6 +8,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@v1.2.0
         with:
           channel_id: UCDg6VVhdeyN6vOjJTSSnS3g
