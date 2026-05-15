@@ -96,16 +96,6 @@ const diego = {
 
 ---
 
-## <img src="https://media.giphy.com/media/077iSaA6pCTwLlIROd/giphy.gif" width="30"> WakaTime - Coding Activity
-
-<div align="center">
-
-![DiegPS Stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&custom_title=This+Week+Coding+Activity&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=6e40c9&text_color=c9d1d9)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LeGTVoNKGCKdq/giphy.gif" width="30"> Latest YouTube Videos
 
 <div align="center">
