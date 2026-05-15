@@ -6,9 +6,7 @@
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time;Full+Stack+%7C+Backend+%7C+DevOps;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
-<!-- BADGES DE VISITAS Y ACTIVIDAD -->
-<img src="https://komarev.com/ghpvc/?username=DiegPS&color=6e40c9&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://wakatime.com/badge/user/diegps.svg?style=flat-square" alt="Total time coded" />
+
 
 </div>
 
@@ -56,6 +54,7 @@ const diego = {
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
