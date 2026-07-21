@@ -103,12 +103,7 @@ const diego = {
 > Content in Spanish | Contenido en Español
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Buscando TRABAJO despues de MESES sin Encontrar Empleo](https://ytcards.demolab.com/?id=XQjnwSid_Ww&title=Buscando+TRABAJO+despues+de+MESES+sin+Encontrar+Empleo&lang=en&timestamp=1771544879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Buscando TRABAJO despues de MESES sin Encontrar Empleo")](https://www.youtube.com/watch?v=XQjnwSid_Ww)
-[![El que madruga… ¿consigue CHAMBA? Vamos a comprobarlo 😭🔥](https://ytcards.demolab.com/?id=X1GYcCnK7Wg&title=El+que+madruga%E2%80%A6+%C2%BFconsigue+CHAMBA%3F+Vamos+a+comprobarlo+%F0%9F%98%AD%F0%9F%94%A5&lang=en&timestamp=1764716613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "El que madruga… ¿consigue CHAMBA? Vamos a comprobarlo 😭🔥")](https://www.youtube.com/watch?v=X1GYcCnK7Wg)
-[![App.new nueva pagina web de google competencia de v0 y Lovable!](https://ytcards.demolab.com/?id=skDt7BMRjn8&title=App.new+nueva+pagina+web+de+google+competencia+de+v0+y+Lovable%21&lang=en&timestamp=1764422371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "App.new nueva pagina web de google competencia de v0 y Lovable!")](https://www.youtube.com/shorts/skDt7BMRjn8)
-[![Claude OPUS 4.5 SEGUN ES MEJOR QUE LOS ING HUMANOS!!](https://ytcards.demolab.com/?id=K3uXNluVQdM&title=Claude+OPUS+4.5+SEGUN+ES+MEJOR+QUE+LOS+ING+HUMANOS%21%21&lang=en&timestamp=1764044641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude OPUS 4.5 SEGUN ES MEJOR QUE LOS ING HUMANOS!!")](https://www.youtube.com/shorts/K3uXNluVQdM)
-[![SEGUN esto es NECESARIO para un BUEN CV, YO NO CREO.](https://ytcards.demolab.com/?id=rQ7hIhxvFJw&title=SEGUN+esto+es+NECESARIO+para+un+BUEN+CV%2C+YO+NO+CREO.&lang=en&timestamp=1764041472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SEGUN esto es NECESARIO para un BUEN CV, YO NO CREO.")](https://www.youtube.com/shorts/rQ7hIhxvFJw)
-[![Por que no me contrataron de programador??](https://ytcards.demolab.com/?id=Tr_bWIaSgRY&title=Por+que+no+me+contrataron+de+programador%3F%3F&lang=en&timestamp=1763945269&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Por que no me contrataron de programador??")](https://www.youtube.com/shorts/Tr_bWIaSgRY)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
