@@ -1,72 +1,41 @@
-<div align="center">
+# Diego Pahua Silvan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4aa&height=220&section=header&text=Diego%20Pahua%20Silvan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+Software Engineer based in Mexico.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time;Full+Stack+%7C+Backend+%7C+DevOps;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+I build developer tools, backend services, desktop applications, and real-time media systems. My recent work is increasingly focused on systems programming, streaming infrastructure, reliability, and tooling that solves practical engineering problems.
 
-</div>
+## What I work on
 
----
+- Developer tooling and terminal applications
+- Backend services and API design
+- Real-time streaming and media pipelines
+- Desktop software and system integrations
+- Automation, observability, and developer experience
 
-## Sobre Mi
+## Selected work
 
-```typescript
-const diego = {
-    pronouns: "He" | "Him",
-    location: "Mexico 🇲🇽",
-    role: "Full Stack Developer",
-    currentFocus: ["Backend Architecture", "Cloud Infrastructure", "Open Source"],
-    askMeAbout: ["TypeScript", "NestJS", "React", "Docker", "Linux"],
-    funFact: "I use Arch btw 🐧",
-    motto: "Siempre dispuesto a ayudar 💜"
-};
-```
+### [devscope](https://github.com/DiegPS/devscope)
+A fast local project scanner and terminal dashboard written in Rust.
 
-<div align="center">
+It discovers projects across multiple roots, detects stacks and package managers, inspects Git state and activity, finds build artifacts and listening ports, and provides health signals through a CLI and TUI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pahua/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DiegPS)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegPS)
+### [streambridge](https://github.com/DiegPS/streambridge)
+A server-side Fabric mod that exposes a small authenticated local HTTP API for connecting external stream events with Minecraft commands.
 
-</div>
+Built with Java and Gradle, with automated tests, GitHub Actions, release artifacts, request limits, local-only networking, and token-based authentication.
 
----
+## Technologies
 
-## Tech Stack
+**Languages:** Rust, Go, TypeScript, Java, Dart, SQL
 
-<div align="center">
+**Application:** React, Astro, Flutter, Wails, Node.js
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Systems & infrastructure:** Linux, Docker, Redis, FFmpeg, Git, GitHub Actions
 
-</div>
+I still work comfortably across the full stack, but I am especially interested in software that sits closer to the system: developer tools, media processing, networking, background processes, and reliable services.
 
----
+## Contact
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegPS&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=6e40c9&icon_color=00d4aa&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegPS&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=6e40c9&text_color=c9d1d9&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegPS&theme=radical&background=0d1117&hide_border=true&ring=6e40c9&fire=00d4aa&currStreakLabel=6e40c9&sideLabels=c9d1d9" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4aa&height=120&section=footer" width="100%"/>
-
-**Thanks for visiting! | ¡Gracias por visitar!**
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/diego-pahua/)
+- [YouTube](https://www.youtube.com/@DiegPS)
+- [GitHub](https://github.com/DiegPS)
