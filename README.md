@@ -36,6 +36,6 @@ I still work comfortably across the full stack, but I am especially interested i
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/diego-pahua/)
-- [YouTube](https://www.youtube.com/@DiegPS)
+- [LinkedIn](https://www.linkedin.com/in/diegps)
+- [YouTube](https://www.youtube.com/@D7EGPS)
 - [GitHub](https://github.com/DiegPS)
